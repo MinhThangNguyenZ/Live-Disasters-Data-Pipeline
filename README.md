@@ -4,7 +4,7 @@ By Minh Thang Nguyen
 
 # Project Proposal
 
-As of recently, many places around the world experienced life endangering disasters that happened more frequently and unexpected. Some examples of these disasters include Severe flooding and earthquakes worldwide, Wild fires in the US, Cyclones in South East Asia, and more to come in the years onwards. As a result, I will come up with a way to extract these data, store them in a database, and in the future utilze AI to analyze the data to make accurate predictions. 
+As of recently, many places around the world experienced life endangering disasters that happened more frequently and unexpected. Some examples of these disasters include Severe flooding and earthquakes worldwide, Wild fires in the US, Cyclones in South East Asia, and more to come in the years onwards. As a result, I will come up with a way to extract these data, store them in a database, and in the future utilize AI to analyze the data to make accurate predictions. 
 
 
 # Project Overview
