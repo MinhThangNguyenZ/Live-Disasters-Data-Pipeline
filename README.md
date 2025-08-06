@@ -38,3 +38,9 @@ This ETL pipeline will first run the process of extraction by collecting data fr
 * PostgreSQL: Relational database for storing disaster data.
   
 * python-dotenv: Environment variable management for secure API key and database credentials.
+
+Prefect automation via pool worker process:
+<img width="770" height="309" alt="prefect" src="https://github.com/user-attachments/assets/7266b659-f18b-4d0a-9a92-3d7b10cf7f42" />
+
+
+
